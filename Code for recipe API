@@ -200,8 +200,6 @@ def getrandomvgean(program):
 
 
 
-#add ingredients back, #summary prep and cooktime    ?
-#instructions messy
 while True:
     if program == "yes" and dietchooser == "randomized":
         print("\n")
